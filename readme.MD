@@ -6,40 +6,40 @@
 
 ## 👥 Equipe
 
-| Aluno          |
-|----------------|
-| Lucas Klemke   |
-| Kalebe Fukuda  |
-| João           |
+| Aluno           |
+|-----------------|
+| Lucas Klemke    |
+| Kalebe Fukuda   |
+| João            |
 
 ---
 
 ## 🛠️ Configuração do Projeto
 
-| Item                    | Escolha    |
-|-------------------------|------------|
-| **Linguagem**           | JavaScript |
-| **Ferramenta de IA**     | Cursor     |
-| **Como foi utilizada**   | IDE        |
-| **Por que foi escolhida** | Familiaridade com a ferramenta |
+| Item                     | Escolha                        |
+|--------------------------|--------------------------------|
+| **Linguagem**            | JavaScript                     |
+| **Ferramenta de IA**      | Cursor                         |
+| **Como foi utilizada**   | IDE                            |
+| **Por que foi escolhida**| Familiaridade com a ferramenta |
 
 ### Uso da IA pela equipe
 
-- Gerar rascunho de código  
-- Revisar soluções  
-- Sugerir testes  
-- Explicar complexidade  
-- Depurar  
+- Gerar rascunho de código
+- Revisar soluções
+- Sugerir testes
+- Explicar complexidade
+- Depurar
 
 ---
 
-## 📋 Desafios por Estrutura
+## 📋 Visão Geral dos Desafios
 
-| Estrutura   | Quantidade |
-|------------|------------|
-| Arrays     | 5          |
-| LinkedList | 4          |
-| Pilhas     | 3          |
+| Estrutura    | Quantidade |
+|-------------|------------|
+| Arrays      | 5          |
+| LinkedList  | 4          |
+| Pilhas      | 3          |
 
 **Total:** 12 desafios · 3 pessoas
 
@@ -47,50 +47,92 @@
 
 ## 📊 Distribuição por Aluno
 
-| Aluno         | Arrays | LinkedList | Pilhas |
-|---------------|--------|------------|--------|
-| Lucas Klemke  | 2      | 1          | 1      |
-| Kalebe Fukuda| 2      | 1          | 1      |
-| João          | 1      | 2          | 1      |
+| Aluno          | Arrays | LinkedList | Pilhas |
+|----------------|--------|------------|--------|
+| Lucas Klemke   | 2      | 1          | 1      |
+| Kalebe Fukuda  | 2      | 1          | 1      |
+| João           | 1      | 2          | 1      |
 
-## Array (5)
+---
 
-# 1. Find First and Last Position of Element in Sorted Array [LeetCode | Médio | Lucas Klemke]
-[aqui vai descricao futuramente]
+## 📁 Desafios Detalhados
 
-# 2. Beautiful Array [LeetCode | Médio | Lucas Klemke]
-[aqui vai descricao futuramente]
+### Array (5)
 
-# 3.
-[aqui vai descricao futuramente]
+#### 1. Find First and Last Position of Element in Sorted Array  
+*LeetCode · Médio · Lucas Klemke*
 
-# 4.
-[aqui vai descricao futuramente]
+> *Descrição em breve.*
 
-# 5.
-[aqui vai descricao futuramente]
+---
 
-## Lista Encadeada (4)
+#### 2. Beautiful Array  
+*LeetCode · Médio · Lucas Klemke*
 
-# 1. Reverse Linked List [LeetCode | Facil | Lucas Klemke]
-[aqui vai descricao futuramente]
+> *Descrição em breve.*
 
-# 2.
-[aqui vai descricao futuramente]
+---
 
-# 3.
-[aqui vai descricao futuramente]
+#### 3. *(a definir)*
 
-# 4.
-[aqui vai descricao futuramente]
+> *Descrição em breve.*
 
-## Pilha (3)
+---
 
-# 1. Implement Stack using Queues [LeetCode | Facil | Lucas Klemke]
-[aqui vai descricao futuramente]
+#### 4. *(a definir)*
 
-# 2.
-[aqui vai descricao futuramente]
+> *Descrição em breve.*
 
-# 3.
-[aqui vai descricao futuramente]
+---
+
+#### 5. *(a definir)*
+
+> *Descrição em breve.*
+
+---
+
+### Lista Encadeada (4)
+
+#### 1. Reverse Linked List  
+*LeetCode · Fácil · Lucas Klemke*
+
+> *Descrição em breve.*
+
+---
+
+#### 2. *(a definir)*
+
+> *Descrição em breve.*
+
+---
+
+#### 3. *(a definir)*
+
+> *Descrição em breve.*
+
+---
+
+#### 4. *(a definir)*
+
+> *Descrição em breve.*
+
+---
+
+### Pilha (3)
+
+#### 1. Implement Stack using Queues  
+*LeetCode · Fácil · Lucas Klemke*
+
+> *Descrição em breve.*
+
+---
+
+#### 2. *(a definir)*
+
+> *Descrição em breve.*
+
+---
+
+#### 3. *(a definir)*
+
+> *Descrição em breve.*
