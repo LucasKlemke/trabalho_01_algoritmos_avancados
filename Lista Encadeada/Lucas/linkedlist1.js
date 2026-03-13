@@ -39,5 +39,19 @@
  * @return {ListNode}
  */
 var reverseList = function(head) {
-    
+    // 1. Define 2 variaveis auxiliares (prev e curr)
+    let prev = null;
+    let curr = head;
+
+    // Enquanto curr não for null
+    while (curr) {
+        let nextTemp = curr.next; // 1. Salva o próximo nó
+        curr.next = prev;         // 2. Inverte o ponteiro
+        
+        // 3. Move os ponteiros um passo à frente
+        prev = curr;              
+        curr = nextTemp;          
+    }
+
+    return prev; // O novo 'head' é o último nó processado
 };
