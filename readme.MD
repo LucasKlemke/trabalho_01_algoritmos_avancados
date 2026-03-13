@@ -16,20 +16,16 @@
 
 ## 🛠️ Configuração do Projeto
 
-| Item                     | Escolha                        |
-|--------------------------|--------------------------------|
-| **Linguagem**            | JavaScript                     |
-| **Ferramenta de IA**      | Cursor                         |
-| **Como foi utilizada**   | IDE                            |
-| **Por que foi escolhida**| Familiaridade com a ferramenta |
+| Item                      | Escolha                                                      |
+|---------------------------|--------------------------------------------------------------|
+| **Linguagem**             | JavaScript                                                   |
+| **Ferramenta de IA**      | Google Gemini                                                |
+| **Como foi utilizada**    | Resolução de dúvidas e melhor entendimento do problema       |
+| **Por que foi escolhida** | Familiaridade com a ferramenta                               |
 
 ### Uso da IA pela equipe
 
-- Gerar rascunho de código
-- Revisar soluções
-- Sugerir testes
 - Explicar complexidade
-- Depurar
 
 ---
 
