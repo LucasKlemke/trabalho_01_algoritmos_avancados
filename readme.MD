@@ -73,14 +73,14 @@
 
 ---
 
-#### 3. *(a definir)*
-
+#### 3. Array Prototype Last
+*LeetCode · Easy · Kalebe Fukuda*
 > *Descrição em breve.*
 
 ---
 
-#### 4. *(a definir)*
-
+#### 4. Removing Minimum and Maximum From Array
+*LeetCode · Médio · Kalebe Fukuda*
 > *Descrição em breve.*
 
 ---
