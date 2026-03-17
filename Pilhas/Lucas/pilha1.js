@@ -39,38 +39,52 @@
 
 // Follow-up: Can you implement the stack using only one queue?
 
-
-var MyStack = function() {
-    
+var MyStack = function () {
+    this.fila = [];
 };
 
 /** 
  * @param {number} x
  * @return {void}
  */
-MyStack.prototype.push = function(x) {
-    
+MyStack.prototype.push = function (x) {
+    // adiciona x no final da fila
+    this.fila.push(x)
 };
 
 /**
  * @return {number}
  */
-MyStack.prototype.pop = function() {
-    
+MyStack.prototype.pop = function () {
+    let tamanho_fila = this.fila.length;
+    for (let i = 0; i < tamanho_fila - 1; i++) {
+        this.fila.push(this.fila.shift())
+    }
+    return this.fila.shift();
+
+
 };
 
 /**
  * @return {number}
  */
-MyStack.prototype.top = function() {
+MyStack.prototype.top = function () {
+    let tamanho_fila = this.fila.length;
+    for (let i = 0; i < n - 1; i++) {
+        this.fila.push(this.fila.shift());
+    }
     
+    let ans = this.fila[0];
+    this.fila.push(this.fila.shift());
+    return ans;
+
 };
 
 /**
  * @return {boolean}
  */
-MyStack.prototype.empty = function() {
-    
+MyStack.prototype.empty = function () {
+    return this.fila.length === 0;
 };
 
 /** 
