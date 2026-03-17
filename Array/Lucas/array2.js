@@ -22,5 +22,28 @@
  * @return {number[]}
  */
 var beautifulArray = function(n) {
-    
+    let resultado = [1];
+
+    // Enquanto o array não tiver todos os números de 1 a n
+    while (resultado.length < n) {
+        let proximo = [];
+
+        // Adiciona as transformações ímpares: 2x - 1
+        for (let x of resultado) {
+            if (2 * x - 1 <= n) {
+                proximo.push(2 * x - 1);
+            }
+        }
+
+        // Adiciona as transformações pares: 2x
+        for (let x of resultado) {
+            if (2 * x <= n) {
+                proximo.push(2 * x);
+            }
+        }
+
+        resultado = proximo;
+    }
+
+    return resultado;
 };

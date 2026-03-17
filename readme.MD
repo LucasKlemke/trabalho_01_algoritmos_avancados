@@ -16,20 +16,16 @@
 
 ## 🛠️ Configuração do Projeto
 
-| Item                     | Escolha                        |
-|--------------------------|--------------------------------|
-| **Linguagem**            | JavaScript                     |
-| **Ferramenta de IA**      | Cursor                         |
-| **Como foi utilizada**   | IDE                            |
-| **Por que foi escolhida**| Familiaridade com a ferramenta |
+| Item                      | Escolha                                                      |
+|---------------------------|--------------------------------------------------------------|
+| **Linguagem**             | JavaScript                                                   |
+| **Ferramenta de IA**      | Google Gemini                                                |
+| **Como foi utilizada**    | Resolução de dúvidas e melhor entendimento do problema       |
+| **Por que foi escolhida** | Familiaridade com a ferramenta                               |
 
 ### Uso da IA pela equipe
 
-- Gerar rascunho de código
-- Revisar soluções
-- Sugerir testes
 - Explicar complexidade
-- Depurar
 
 ---
 
@@ -60,16 +56,39 @@
 ### Array (5)
 
 #### 1. Find First and Last Position of Element in Sorted Array  
-*LeetCode · Médio · Lucas Klemke*
+[LeetCode · Médio · Lucas Klemke](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
 
-> *Descrição em breve.*
+> Dado um array de inteiros `nums` ordenado em ordem não decrescente, encontre a posição inicial e final de um valor alvo (`target`). Caso o valor alvo não seja encontrado no array, retorne `[-1, -1]`.
+>
+> O algoritmo deve ter complexidade de tempo O(log n).  
+>
+> **Exemplo 1:**  
+> Entrada: nums = [5,7,7,8,8,10], target = 8  
+> Saída: [3,4]  
+>
+> **Exemplo 2:**  
+> Entrada: nums = [5,7,7,8,8,10], target = 6  
+> Saída: [-1,-1]  
+>
+> **Exemplo 3:**  
+> Entrada: nums = [], target = 0  
+> Saída: [-1,-1]  
+>
+> **Restrições:**  
+> - 0 <= nums.length <= 10⁵  
+> - -10⁹ <= nums[i] <= 10⁹  
+> - nums é um array não decrescente  
+> - -10⁹ <= target <= 10⁹
 
 ---
 
 #### 2. Beautiful Array  
-*LeetCode · Médio · Lucas Klemke*
+[LeetCode · Médio · Lucas Klemke](https://leetcode.com/problems/beautiful-array/description/)
 
-> *Descrição em breve.*
+> Dado um inteiro `n`, retorne qualquer permutação dos números de `1` a `n` tal que, para todo par de índices `i < j`, não exista um índice `k` entre eles para o qual `2 * nums[k] == nums[i] + nums[j]`.
+>
+> **Restrições:**  
+> - 1 <= n <= 1000
 
 ---
 
@@ -94,9 +113,9 @@
 ### Lista Encadeada (4)
 
 #### 1. Reverse Linked List  
-*LeetCode · Fácil · Lucas Klemke*
+[LeetCode · Fácil · Lucas Klemke](https://leetcode.com/problems/reverse-linked-list/)
 
-> *Descrição em breve.*
+> Dado o head de uma lista ligada simples, inverta a lista e retorne o novo head resultante.
 
 ---
 
