@@ -104,9 +104,10 @@
 
 ---
 
-#### 5. *(a definir)*
+#### 5. Product of Array Except Self  
+[LeetCode · Médio · João](https://leetcode.com/problems/product-of-array-except-self/)
 
-> *Descrição em breve.*
+> Dado um array de inteiros `nums`, retorne um array `answer` onde `answer[i]` é o produto de todos os elementos de `nums` exceto `nums[i]`, sem usar divisão e em tempo O(n).
 
 ---
 
@@ -119,15 +120,17 @@
 
 ---
 
-#### 2. *(a definir)*
+#### 2. Middle of the Linked List  
+[LeetCode · Fácil · João](https://leetcode.com/problems/middle-of-the-linked-list/)
 
-> *Descrição em breve.*
+> Dado o head de uma lista ligada simples, retorne o nó do meio. Se houver dois nós centrais, retorne o segundo.
 
 ---
 
-#### 3. *(a definir)*
+#### 3. Remove Nth Node From End of List  
+[LeetCode · Médio · João](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
-> *Descrição em breve.*
+> Dado o head de uma lista ligada e um inteiro `n`, remova o n-ésimo nó a partir do fim da lista e retorne o novo head.
 
 ---
 
@@ -146,9 +149,10 @@
 
 ---
 
-#### 2. *(a definir)*
+#### 2. Valid Parentheses  
+[LeetCode · Fácil · João](https://leetcode.com/problems/valid-parentheses/)
 
-> *Descrição em breve.*
+> Dada uma string contendo os caracteres `()[]{}`, verifique se os parênteses/chaves/colchetes estão corretamente fechados e na ordem certa.
 
 ---
 
