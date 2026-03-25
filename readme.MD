@@ -93,14 +93,45 @@
 ---
 
 #### 3. Array Prototype Last
-*LeetCode · Easy · Kalebe Fukuda*
-> *Descrição em breve.*
+[LeetCode · Fácil · Kalebe Fukuda](https://leetcode.com/problems/array-prototype-last/)
+
+> Escreva um código que aprimore todos os arrays para que o método `array.last()` possa ser chamado em qualquer array e retorne o último elemento. Se não houver elementos no array, deve retornar `-1`.
+>
+> **Exemplo 1:**  
+> Entrada: nums = [null, {}, 3]  
+> Saída: 3  
+>
+> **Exemplo 2:**  
+> Entrada: nums = []  
+> Saída: -1  
+>
+> **Restrições:**  
+> - arr é um array JSON válido  
+> - 0 <= arr.length <= 1000
 
 ---
 
 #### 4. Removing Minimum and Maximum From Array
-*LeetCode · Médio · Kalebe Fukuda*
-> *Descrição em breve.*
+[LeetCode · Médio · Kalebe Fukuda](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/)
+
+> Dado um array de inteiros distintos `nums`, remova o elemento de menor e o de maior valor. Uma deleção é definida como remover um elemento do início ou do fim do array. Retorne o número mínimo de deleções necessárias para remover ambos.
+>
+> **Exemplo 1:**  
+> Entrada: nums = [2,10,7,5,4,1,8,6]  
+> Saída: 5  
+>
+> **Exemplo 2:**  
+> Entrada: nums = [0,-4,19,1,8,-2,-3,5]  
+> Saída: 3  
+>
+> **Exemplo 3:**  
+> Entrada: nums = [101]  
+> Saída: 1  
+>
+> **Restrições:**  
+> - 1 <= nums.length <= 10⁵  
+> - -10⁵ <= nums[i] <= 10⁵  
+> - Os inteiros em nums são distintos
 
 ---
 
@@ -134,9 +165,27 @@
 
 ---
 
-#### 4. *(a definir)*
+#### 4. Remove Linked List Elements
+[LeetCode · Fácil · Kalebe Fukuda](https://leetcode.com/problems/remove-linked-list-elements/description/)
 
-> *Descrição em breve.*
+> Dado o head de uma lista ligada e um inteiro `val`, remova todos os nós cujo valor seja igual a `val` e retorne o novo head.
+>
+> **Exemplo 1:**  
+> Entrada: head = [1,2,6,3,4,5,6], val = 6  
+> Saída: [1,2,3,4,5]  
+>
+> **Exemplo 2:**  
+> Entrada: head = [], val = 1  
+> Saída: []  
+>
+> **Exemplo 3:**  
+> Entrada: head = [7,7,7,7], val = 7  
+> Saída: []  
+>
+> **Restrições:**  
+> - O número de nós está no intervalo [0, 10⁴]  
+> - 1 <= Node.val <= 50  
+> - 0 <= val <= 50
 
 ---
 
