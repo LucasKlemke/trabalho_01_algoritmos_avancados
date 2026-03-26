@@ -205,6 +205,28 @@
 
 ---
 
-#### 3. *(a definir)*
+#### 3. Climbing Stairs
+[LeetCode · Fácil · Kalebe Fukuda](https://leetcode.com/problems/climbing-stairs/description/)
 
-> *Descrição em breve.*
+> Você está subindo uma escada. São necessários `n` passos para chegar ao topo.
+> A cada vez você pode subir `1` ou `2` degraus. De quantas formas distintas você consegue chegar ao topo?
+>
+> **Exemplo 1:**  
+> Entrada: n = 2  
+> Saída: 2  
+> Explicação: Há duas formas de subir ao topo.  
+> 1. 1 degrau + 1 degrau  
+> 2. 2 degraus  
+>
+> **Exemplo 2:**  
+> Entrada: n = 3  
+> Saída: 3  
+> Explicação: Há três formas de subir ao topo.  
+> 1. 1 degrau + 1 degrau + 1 degrau  
+> 2. 1 degrau + 2 degraus  
+> 3. 2 degraus + 1 degrau  
+>
+> **Restrições:**  
+> - 1 <= n <= 45
+
+---
